@@ -104,7 +104,8 @@ print("\nPredicted Result:", y_prednew)
 ```
 
 ## Output:
-<img width="957" height="285" alt="image" src="https://github.com/user-attachments/assets/f42ccadb-de02-4f63-91b1-6fe2b7535253" />
+
+<img width="716" height="387" alt="image" src="https://github.com/user-attachments/assets/a7f37100-8ca6-4961-bea6-2f74358276c8" />
 
 
 
